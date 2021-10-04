@@ -1,0 +1,7 @@
+G:\Универ\ООП\Лабы\Лаба 2\Лаба 2\bin\Debug\Лаба 2.exe.config
+G:\Универ\ООП\Лабы\Лаба 2\Лаба 2\bin\Debug\Лаба 2.exe
+G:\Универ\ООП\Лабы\Лаба 2\Лаба 2\bin\Debug\Лаба 2.pdb
+G:\Универ\ООП\Лабы\Лаба 2\Лаба 2\obj\Debug\Лаба 2.csproj.AssemblyReference.cache
+G:\Универ\ООП\Лабы\Лаба 2\Лаба 2\obj\Debug\Лаба 2.csproj.CoreCompileInputs.cache
+G:\Универ\ООП\Лабы\Лаба 2\Лаба 2\obj\Debug\Лаба 2.exe
+G:\Универ\ООП\Лабы\Лаба 2\Лаба 2\obj\Debug\Лаба 2.pdb
